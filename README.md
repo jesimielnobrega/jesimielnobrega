@@ -1,48 +1,49 @@
-# 👋 Olá, eu sou Jesimiel Nóbrega
+# 👋 Jesimiel Nóbrega
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack;L%C3%ADder+T%C3%A9cnico+%40+SOSOFT;Engenharia+de+Sistemas+de+Larga+Escala;Laravel+%7C+React+%7C+Node.js+%7C+Docker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%7C+Tech+Lead+%40+SOSOFT;Engenharia+de+Sistemas+de+Larga+Escala;Laravel+%7C+React+%7C+Node.js+%7C+Docker" alt="Typing SVG" />
 
   <p align="center">
-    <b>Transformando problemas complexos em plataformas escaláveis de impacto nacional e provincial em Angola.</b>
+    <b>Liderança técnica e desenvolvimento de plataformas escaláveis de elevado impacto institucional e empresarial em Angola.</b>
   </p>
 
   <p align="center">
     <a href="https://linkedin.com/in/jesimielnobrega"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:jesimielnobrega25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://wa.me/244942031240"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-    <a href="https://jesimielnobrega.github.io/"><img src="https://img.shields.io/badge/Portfólio_Live-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" /></a>
+    <a href="https://portfolio-ruby-eight-80.vercel.app/"><img src="https://img.shields.io/badge/Vercel_Live-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Live" /></a>
+    <a href="https://jesimielnobrega.github.io/"><img src="https://img.shields.io/badge/GitHub_Pages-2088FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages Live" /></a>
   </p>
 
 </div>
 
 ---
 
-### 🚀 Sobre Mim
+### 🚀 Perfil & Atuação Profissional
 
-Engenheiro de Software Fullstack e **Líder Técnico** na **SOSOFT LDA**, com ampla experiência na conceção, arquitetura e implementação de **plataformas de larga escala** ao serviço de instituições governamentais e educacionais em Angola.
+**Fullstack Developer** e **Líder Técnico** na **SOSOFT LDA**, atuando na conceção, arquitetura de software e coordenação de engenharia em projetos de grande dimensão para o setor governamental e educacional em Angola.
 
-- 🎓 **Formação Académica:** Graduando em **Engenharia Informática** pela *Universidade Metodista de Angola* & Técnico de Informática pelo *IPIL*.
-- 🏢 **Liderança Técnica:** Coordenação de equipas de engenharia, definição de arquitetura de software, automação de CI/CD e garantia de boas práticas de código (*SOLID*, *Clean Code*).
-- 💡 **Foco:** Performance, resiliência de sistemas, experiência do utilizador (UX/UI) e escalabilidade.
+- 🎓 **Formação:** Estudante de **Engenharia Informática** na *Universidade Metodista de Angola* e formação como Técnico de Informática pelo *IPIL*.
+- 🏢 **Liderança Técnica & Engenharia:** Coordenação de equipas de desenvolvimento, definição de padrões de arquitetura (SOLID, Clean Code), automação de pipelines de CI/CD e garantia de resiliência em sistemas críticos.
+- 💡 **Foco:** Escalabilidade, performance de sistemas distribuídos, segurança e experiência do utilizador (UX/UI).
 - 🌍 **Idiomas:** Português (Nativo/Fluente) | Inglês (Intermédio).
 
 ---
 
-### 🏆 Projetos de Grande Impacto
+### 🏆 Projetos Institucionais & Empresariais
 
-| Projeto | Âmbito | Descrição & Stack Principal | Link |
+| Projeto | Âmbito | Função & Stack Tecnológica | Link |
 | :--- | :---: | :--- | :---: |
-| **Acesso ETP** | 🇦🇴 Nacional | Plataforma nacional de acesso ao ensino técnico-profissional em Angola — gestão de vagas, candidaturas e colocação automatizada.<br>`Laravel` `Inertia.js` `React` `Python` `Docker` `CI/CD` | [acessoetp.ao](https://acessoetp.ao) |
-| **SIPE · SIPE-GPEL** | 🏛️ Provincial | Sistema de informação e gestão a nível provincial com instância dedicada ao Governo Provincial de Luanda (GPEL).<br>`Laravel` `Inertia.js` `React` `Python` `Docker` | [sipe.ao](https://sipe.ao) |
-| **Portal do IPIL** | 🎓 Institucional | Portal institucional e plataforma de gestão escolar do Instituto Politécnico Industrial de Luanda.<br>`Node.js` `React` `Python` `CI/CD` | [ipil.ao](https://ipil.ao) |
+| **Acesso ETP** | 🇦🇴 Nacional | **Liderança Técnica & Colaboração:** Plataforma nacional de acesso ao ensino técnico-profissional em Angola — gestão de vagas, candidaturas e colocação automatizada.<br>`Laravel` `Inertia.js` `React` `Python` `Docker` `CI/CD` | [acessoetp.ao](https://acessoetp.ao) |
+| **SIPE · SIPE-GPEL** | 🏛️ Provincial | **Co-Arquitetura & Engenharia:** Sistema de informação e gestão provincial com instância dedicada ao Governo Provincial de Luanda (GPEL).<br>`Laravel` `Inertia.js` `React` `Python` `Docker` | [sipe.ao](https://sipe.ao) |
+| **Portal do IPIL** | 🎓 Institucional | **Coordenação & Desenvolvimento:** Portal institucional e sistema de gestão escolar do Instituto Politécnico Industrial de Luanda.<br>`Node.js` `React` `Python` `CI/CD` | [ipil.ao](https://ipil.ao) |
 
-> 🛠️ *Outras soluções desenvolvidas:* E-Commerce AGIM, Sistema de Correção de Provas, Gestão Documental e Gestão de Resíduos Sólidos.
+> 🛠️ *Outras soluções com participação técnica:* E-Commerce AGIM, Sistema de Correção Automatizada de Provas, Plataforma de Gestão Documental e Gestão de Resíduos Sólidos.
 
 ---
 
-### 🛠️ Stack & Tecnologias
+### 🛠️ Stack Tecnológica & Ferramentas
 
 <details open>
 <summary><b>Frontend & Mobile</b></summary>
@@ -88,7 +89,7 @@ Engenheiro de Software Fullstack e **Líder Técnico** na **SOSOFT LDA**, com am
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas de Código
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jesimielnobrega&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Jesimiel Nóbrega" />
@@ -97,18 +98,18 @@ Engenheiro de Software Fullstack e **Líder Técnico** na **SOSOFT LDA**, com am
 
 ---
 
-### 💼 Trajetória Profissional
+### 💼 Experiência Profissional
 
-- **Líder Técnico & Desenvolvedor Sénior** @ *SOSOFT LDA*  
-  *Presente* — Liderança técnica na conceção e entrega dos sistemas nacionais e provinciais (Acesso ETP, SIPE, Portal do IPIL), arquitetura de software, CI/CD e governança técnica.
+- **Líder Técnico & Desenvolvedor Fullstack** @ *SOSOFT LDA*  
+  *Presente* — Liderança técnica na conceção e entrega dos sistemas nacionais e provinciais (Acesso ETP, SIPE, Portal do IPIL), definição de arquitetura de software, automação de CI/CD e governança de engenharia.
 - **Desenvolvedor Freelancer** @ *ESSJ LDA*  
-  *Projetos* — Desenvolvimento fullstack em ecossistemas de alta disponibilidade.
+  *Projetos* — Desenvolvimento de sistemas em ecossistemas de elevada disponibilidade.
 - **Auxiliar Técnico & Dev** @ *AGIM CORPORATE LDA*  
-  *9 Meses* — Suporte técnico de infraestrutura e desenvolvimento de e-commerce corporativo.
+  *9 Meses* — Suporte de infraestrutura e colaboração no desenvolvimento do e-commerce corporativo.
 
 ---
 
-### 📫 Contacto & Conexão
+### 📫 Contacto
 
 <p align="center">
   <a href="https://linkedin.com/in/jesimielnobrega">
@@ -121,9 +122,3 @@ Engenheiro de Software Fullstack e **Líder Técnico** na **SOSOFT LDA**, com am
     <img src="https://img.shields.io/badge/WhatsApp-+244_942_031_240-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp" />
   </a>
 </p>
-
-<div align="center">
-  <br>
-  <sub><i>"A tecnologia move o mundo, e a engenharia de software transforma complexidade em soluções simples, escaláveis e humanas."</i></sub>
-  <br>
-</div>

@@ -31,15 +31,12 @@ O meu trabalho tem um fio condutor: pegar em problemas institucionais complexos 
 
 ### [Acesso ETP](https://acessoetp.ao) — Plataforma Nacional
 Liderança técnica no desenho e entrega da plataforma nacional de acesso ao ensino técnico-profissional em Angola — gestão de vagas, candidaturas e colocação automatizada de candidatos a nível país.
-`Laravel` `Inertia.js` `React` `Python` `Docker` `CI/CD`
 
 ### [SIPE · SIPE-GPEL](https://sipe.ao) — Governo Provincial de Luanda
 Co-arquitectura e engenharia de um sistema de informação e gestão provincial, com instância dedicada ao Gabinete Provincial da Educação de Luanda (GPEL).
-`Laravel` `Inertia.js` `React` `Python` `Docker`
 
 ### [Portal do IPIL](https://ipil.ao) — Instituto Politécnico Industrial de Luanda
 Coordenação e desenvolvimento do portal institucional e sistema de gestão escolar do IPIL.
-`Node.js` `React` `Python` `CI/CD`
 
 > Outras soluções com participação técnica directa: E-Commerce AGIM, sistema de correcção automatizada de provas, plataforma de gestão documental e gestão de resíduos sólidos.
 

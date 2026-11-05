@@ -19,7 +19,7 @@
 
 Sou **Fullstack Developer e Tech Lead na SOSOFT LDA**, onde coordeno a arquitectura técnica e as equipas de engenharia por trás de sistemas nacionais e provinciais no sector público e educacional angolano.
 
-Além disso, sou **cofundador da Nexova**, uma venture de software focada no mercado lusófono (Angola, Brasil, Portugal), e estudante de **Engenharia Informática** na Universidade Metodista de Angola.
+Sou também estudante de **Engenharia Informática** na Universidade Metodista de Angola.
 
 O meu trabalho tem um fio condutor: pegar em problemas institucionais complexos — gestão académica, candidaturas públicas, processos administrativos de larga escala — e transformá-los em plataformas que funcionam de forma fiável para milhares de pessoas, com arquitectura limpa e performance como prioridade.
 

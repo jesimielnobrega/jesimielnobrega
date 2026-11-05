@@ -17,11 +17,9 @@
 
 ## Sobre mim
 
-Sou **Fullstack Developer e Tech Lead na SOSOFT LDA**, onde coordeno a arquitectura técnica e as equipas de engenharia por trás de sistemas nacionais e provinciais no sector público e educacional angolano.
+**Tech Lead e Fullstack Developer na SOSOFT LDA**, onde coordeno a arquitectura técnica e as equipas de engenharia por trás de sistemas nacionais e provinciais no sector público e educacional angolano — paralelamente a formação em Engenharia Informática na Universidade Metodista de Angola.
 
-Sou também estudante de **Engenharia Informática** na Universidade Metodista de Angola.
-
-O meu trabalho tem um fio condutor: pegar em problemas institucionais complexos — gestão académica, candidaturas públicas, processos administrativos de larga escala — e transformá-los em plataformas que funcionam de forma fiável para milhares de pessoas, com arquitectura limpa e performance como prioridade.
+A actuação assenta num mesmo princípio: transformar problemas institucionais complexos — gestão académica, candidaturas públicas, processos administrativos de larga escala — em plataformas fiáveis para milhares de utilizadores, com arquitectura limpa e performance como critérios inegociáveis.
 
 **Idiomas:** Português (nativo) · Inglês (intermédio)
 
